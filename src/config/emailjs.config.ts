@@ -13,10 +13,10 @@ export const emailJsConfig = {
   publicKey: "anBuzWnL6qj_D_FGw",
 
   // Your Service ID (from Email Services section)
-  serviceId: "service_xkh5rzk",
+  serviceId: "service_eq7o4mr",
 
   // Your Template ID (from Email Templates section)
-  templateId: "template_awdpt1c",
+  templateId: "template_paxml9lc",
 
   // Email recipient (your Gmail)
   recipientEmail: "kpinvestment7781@gmail.com",
