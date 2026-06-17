@@ -16,7 +16,7 @@ export const emailJsConfig = {
   serviceId: "service_eq7o4mr",
 
   // Your Template ID (from Email Templates section)
-  templateId: "template_paxml9lc",
+  templateId: "template_awdpt1c",
 
   // Email recipient (your Gmail)
   recipientEmail: "kpinvestment7781@gmail.com",
